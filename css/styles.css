@@ -8,5 +8,6 @@ h2{
   }
 p{
   font-weight: italic;
-  background:blue;
+  background:blue
+  font-size:14;
 }
