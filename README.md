@@ -1,4 +1,4 @@
-# private-island-resort
+### private-island-resort
 # This was a class project to test HTML, CSS and branching
 # 7th February 2018
 # By Agnes Mwaniki
